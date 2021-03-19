@@ -2,6 +2,7 @@
 - 👀 I’m interested in Audio Speech Synthesis
 - 🌱 I’m currently learning Python, Javascript and Deep Learning
 - 💞️ I’m looking to collaborate on any of the topics above.
+- 📄 You can subscribe to my newsletter at https://www.getrevue.co/profile/siricat
 - 📫 How to reach me isiricat@pm.me
 
 <!---
